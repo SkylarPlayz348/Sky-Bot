@@ -1,0 +1,29 @@
+{
+    "Common":{
+        "token"  : "token_here",
+        "prefix" : ["!"],
+        "status" : "dnd",
+        "presence" : "WATCHING",
+        "feature_color": "#1BA2BD",
+        "copyright": "© 2022 YOUR NAME HERE",
+        "debug_mode": true
+    },
+
+    "utility_module": {
+        "enabled": false,
+        "about": "Chloe Bot",
+        "member_count_channel_enabled": false,
+        "member_count_channel": ""
+    },
+
+    "admin_management": {
+        "owner_roles": ["930650924890882098"],
+        "admin_roles": ["930527896584474654"],
+        "staff_roles": ["930527896584474654"],
+        "use_custom_perms": true,
+        "owner_rank_display_name": "Owner",
+        "admin_rank_display_name": "Administrator",
+        "staff_rank_display_name": "Staff",
+        "enable_user_statistics": true
+    }
+}
